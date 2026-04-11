@@ -1,0 +1,12 @@
+{
+  "export_job_id": "bfa5c0c8-10db-45e7-ae11-b12405bf8cd7",
+  "id_short": 231804,
+  "published_at": "2026-04-11T07:11:08Z",
+  "repo_name": "all-restaurants-in-rancho-cucamonga-california-us-sample-231804",
+  "sample_asset_name": "beamstation_231804_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/231804/beamstation_231804_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 23,
+  "sample_sha256": "fea592dcfbd8f7ece788370ce51da6937447a6962fd72975663296d15dcd154e",
+  "sample_size_bytes": 110225,
+  "total_records": 237
+}
