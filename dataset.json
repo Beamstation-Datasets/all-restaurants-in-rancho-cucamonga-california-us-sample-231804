@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Detailed restaurant dataset for Rancho Cucamonga, California with a population of over 174k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Rancho Cucamonga, California, US",
+  "export_job_id": "bfa5c0c8-10db-45e7-ae11-b12405bf8cd7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 231804,
+  "location_name": "Rancho Cucamonga",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-rancho-cucamonga-california-us-sample-231804",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/231804/beamstation_231804_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.7,
+  "sample_records": 23,
+  "sample_sha256": "fea592dcfbd8f7ece788370ce51da6937447a6962fd72975663296d15dcd154e",
+  "sample_size_bytes": 110225,
+  "total_records": 237,
+  "updated_at": "2026-03-31T15:01:57.307567+00:00"
+}
